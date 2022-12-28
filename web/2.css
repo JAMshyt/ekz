@@ -1,0 +1,24 @@
+body{
+    background-image:url("fon2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.head{
+    text-align: center;
+    font-family: Arial ;
+    font-size: 24pt;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration-line: underline;
+}
+.txt{
+    margin-top: 10px;
+    width: 300px;
+    border:solid;
+    outline: solid #FFFF00;
+    float: left;
+    background-color: #00FF00;
+}
+#im{
+    float: right;
+}

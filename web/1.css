@@ -1,0 +1,23 @@
+body{
+    background-image:url("fon1.jpg") ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.head{
+    text-align: center;
+    font-family:Monotype Corsiva;
+    font-size: 24pt;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+#img{
+    float: left;
+
+}
+.txt{
+    border-style: solid;
+    width: 200px;
+    float: right;
+    background-color: rgb(255, 255, 0);
+}
